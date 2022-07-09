@@ -9,24 +9,34 @@
               Your Content. All in <span style="color: #3c82f4">One Spot</span>
             </h2>
             <p class="your-home-page-text-option-1">
-              <img src="@/assets/image/bullet-1.svg" alt="bullet" /> Bring all
+              <img src="@/assets/image/bullet-1.svg" alt="bullet"> Bring all
               of your content together into one homepage.
             </p>
             <p class="your-home-page-text-option-2">
-              <img src="@/assets/image/Bullet-2.svg" alt="bullet" /> Your page
+              <img src="@/assets/image/Bullet-2.svg" alt="bullet"> Your page
               automatically updates whenever you create.
             </p>
             <div class="your-home-page-buttons">
-              <a class="your-home-page-buttons-started" href="#"
-                >Get Started Now</a
+              <router-link
+                tag="a"
+                to="/login"
+                class="your-home-page-buttons-started"
+                href="#"
+                >Get Started Now</router-link
               >
-              <a class="your-home-page-buttons-demo" href="#">View A Demo</a>
+              <router-link
+                tag="a"
+                to="/home"
+                class="your-home-page-buttons-demo"
+                href="#"
+                >View A Demo</router-link
+              >
             </div>
           </div>
         </div>
         <div class="col-lg-6 col-md-12 pt-5">
           <div class="your-home-page-photo">
-            <img src="@/assets/image/Screen-step-1.png" alt="screen" />
+            <img src="@/assets/image/Screen-step-1.png" alt="screen">
           </div>
         </div>
       </div>
