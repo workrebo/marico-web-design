@@ -6,7 +6,7 @@
           <li class="menu-list-item-logo">
             <router-link tag="a" to="/" href="#"
               ><img src="@/assets/image/Logofooter.svg" alt="logofooter"
-            /></router-link>
+            ></router-link>
           </li>
           <li class="menu-list-item">
             <router-link tag="a" to="/about" href="#">About</router-link>
