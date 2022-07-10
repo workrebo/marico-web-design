@@ -6,6 +6,7 @@
     <StepOne />
     <YourHomePage />
     <StepTwo />
+    <OneLinkCollection />
   </div>
 </template>
 
@@ -16,6 +17,7 @@ import LoveMarico from "@/components/Home/LoveMarico.vue";
 import StepOne from "@/components/Home/StepOne.vue";
 import YourHomePage from "@/components/Home/YourHomePage.vue";
 import StepTwo from "@/components/Home/StepTwo.vue";
+import OneLinkCollection from "@/components/Home/OneLinkCollection.vue";
 export default {
   name: "Home",
   components: {
@@ -25,6 +27,7 @@ export default {
     StepOne,
     YourHomePage,
     StepTwo,
+    OneLinkCollection,
   },
 };
 </script>
