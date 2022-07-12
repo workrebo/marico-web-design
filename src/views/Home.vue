@@ -7,6 +7,8 @@
     <YourHomePage />
     <StepTwo />
     <OneLinkCollection />
+    <StepThree />
+    <CreateShare />
   </div>
 </template>
 
@@ -18,6 +20,8 @@ import StepOne from "@/components/Home/StepOne.vue";
 import YourHomePage from "@/components/Home/YourHomePage.vue";
 import StepTwo from "@/components/Home/StepTwo.vue";
 import OneLinkCollection from "@/components/Home/OneLinkCollection.vue";
+import StepThree from "@/components/Home/StepThree.vue";
+import CreateShare from "@/components/Home/CreateShare.vue";
 export default {
   name: "Home",
   components: {
@@ -28,6 +32,8 @@ export default {
     YourHomePage,
     StepTwo,
     OneLinkCollection,
+    StepThree,
+    CreateShare,
   },
 };
 </script>
