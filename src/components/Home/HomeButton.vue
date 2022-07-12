@@ -16,7 +16,7 @@
               >
             </div>
             <p class="home-button-text">
-              <img src="@/assets/image/Dothome.svg" alt="dothome" >
+              <img src="@/assets/image/Dothome.svg" alt="dothome">
               <span class="home-button-number">1000+</span>
               <span class="home-button-other-text"
                 >creators have already started</span
@@ -119,7 +119,7 @@
     margin: 0 0 0 0;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 770px) {
   .home-button-title {
     width: 512px;
   }

@@ -11,8 +11,7 @@
             <img
               class="one-link-mobile"
               src="@/assets/image/Mobile-one-link.png"
-              alt="mobile"
-            />
+              alt="mobile">
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
@@ -119,7 +118,7 @@
     margin-bottom: 50px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 770px) {
   .one-started {
     margin-left: 120px;
   }

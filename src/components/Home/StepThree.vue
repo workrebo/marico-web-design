@@ -117,7 +117,7 @@
     margin-bottom: 35px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 770px) {
   .step-three-content {
     margin: 190px 0px 0px 0px;
   }

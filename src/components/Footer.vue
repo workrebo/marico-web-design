@@ -5,8 +5,7 @@
         <ul class="menu-list">
           <li class="menu-list-item-logo">
             <router-link tag="a" to="/" href="#"
-              ><img src="@/assets/image/Logofooter.svg" alt="logofooter"
-            ></router-link>
+              ><img src="@/assets/image/Logofooter.svg" alt="logofooter"></router-link>
           </li>
           <li class="menu-list-item">
             <router-link tag="a" to="/about" href="#">About</router-link>
@@ -66,7 +65,7 @@
     margin-right: 100px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 770px) {
   .menu-list {
     display: block;
   }

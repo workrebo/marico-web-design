@@ -61,7 +61,7 @@
   font-family: "Poppins-SemiBold";
   font-style: normal;
   font-weight: 600;
-  font-size: 75px;
+  font-size: 60px;
   line-height: 112px;
   color: #ffffff;
 }

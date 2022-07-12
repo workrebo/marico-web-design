@@ -140,7 +140,7 @@
     width: 50%;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 770px) {
   .love-marico-content {
     margin: 190px 20px 50px 20px;
   }

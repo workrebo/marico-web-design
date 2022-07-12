@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-12">
           <h1 class="main-heading-title">
-            Own your audience.<br >
+            Own your audience.<br>
             <span class="main-heading-other-title"
               >So you don't lost them.</span
             >
@@ -31,7 +31,7 @@
 .main-heading-other-title {
   color: #fe6783;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 770px) {
   .main-heading-title {
     font-family: "Poppins-Medium";
     font-style: normal;

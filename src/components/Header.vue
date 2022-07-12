@@ -3,8 +3,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-dark pt-4 pb-4">
       <div class="container">
         <router-link tag="a" to="/" class="navbar-brand" href="#"
-          ><img src="@/assets/image/Logo.svg" alt="Logo"
-        /></router-link>
+          ><img src="@/assets/image/Logo.svg" alt="Logo"></router-link>
         <button
           class="navbar-toggler"
           type="button"
