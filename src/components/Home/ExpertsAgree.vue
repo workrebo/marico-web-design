@@ -37,6 +37,7 @@
 }
 .experts-agree-photo {
   max-width: 100%;
+  margin-bottom: 150px;
 }
 @media screen and (max-width: 1400px) {
   .experts-agree-title {

@@ -10,6 +10,8 @@
     <StepThree />
     <CreateShare />
     <ExpertsAgree />
+    <Audience />
+    <GetStart />
   </div>
 </template>
 
@@ -24,6 +26,8 @@ import OneLinkCollection from "@/components/Home/OneLinkCollection.vue";
 import StepThree from "@/components/Home/StepThree.vue";
 import CreateShare from "@/components/Home/CreateShare.vue";
 import ExpertsAgree from "@/components/Home/ExpertsAgree.vue";
+import Audience from "@/components/Home/Audience.vue";
+import GetStart from "@/components/Home/GetStart.vue"
 export default {
   name: "Home",
   components: {
@@ -37,6 +41,8 @@ export default {
     StepThree,
     CreateShare,
     ExpertsAgree,
+    Audience,
+    GetStart
   },
 };
 </script>
